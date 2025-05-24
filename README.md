@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img width="100%" src="images/architecture/ds_course_architecture.jpg" alt="Course Overview">
+  <img width="100%" src="images/overview.png" alt="Course Overview">
 </p>
 
 Master the fundamentals of data science by building an end-to-end data science project from scratch. Gain hands-on experience with real-world data..
