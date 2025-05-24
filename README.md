@@ -59,7 +59,7 @@ Master the fundamentals of data science by building an end-to-end data science p
 
 The final 1.5 weeks are dedicated to applying everything you've learned in a team-based data science project. You'll work in small groups to choose a dataset, analyze it, model it, and present your findings.
 
-### 🔹 Module 7: Final Project Development
+### 🔹 Week 7: Final Project Development
 - Team formation and dataset selection
 - Perform EDA and visual analysis
 - Build and evaluate a machine learning model
@@ -67,7 +67,7 @@ The final 1.5 weeks are dedicated to applying everything you've learned in a tea
 - Begin drafting slides and documentation
 - Peer/instructor feedback on progress
 
-### 🔹 Module 8: Final Project Showcase
+### 🔹 Week 8: Final Project Showcase
 - Final team presentations (10 min each)
 - Live Q&A and instructor feedback
 - Reflect on course journey and next steps
