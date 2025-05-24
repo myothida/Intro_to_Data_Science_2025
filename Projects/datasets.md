@@ -50,7 +50,6 @@ This theme focuses on climate, pollution, biodiversity, and sustainability chall
 - [Berkeley Earth Climate Data](http://berkeleyearth.org/data/)
 
 #### 4. CO₂ Emissions
-- [Global Carbon Atlas](https://www.globalcarbonatlas.org/)
 - [Our World in Data CO2](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
 
 ### ✅ Possible Projects:
