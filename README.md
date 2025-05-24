@@ -11,7 +11,7 @@ Master the fundamentals of data science by building an end-to-end data science p
 
 ## 🗓️ Course Structure
 
-- **Duration:** 7 Modules (1 module per week) + Final Project
+- **Duration:** 6 Modules (1 module per week) + Final Project (2 weeks)
 - **Class Time:** 300 minutes per module (5 hours)
 - **Format:** Combination of lectures, live coding, hands-on labs, and final group project
 - **Final Output:** Team-based data science project and presentation
@@ -54,6 +54,7 @@ Master the fundamentals of data science by building an end-to-end data science p
 - Improving performance and avoiding overfitting
 - Finalize and document ML models
 
+---
 ## 🚀 Group Project (Weeks 7 & 8)
 
 The final 1.5 weeks are dedicated to applying everything you've learned in a team-based data science project. You'll work in small groups to choose a dataset, analyze it, model it, and present your findings.
