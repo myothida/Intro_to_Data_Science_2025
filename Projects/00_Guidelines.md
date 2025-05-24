@@ -25,8 +25,8 @@ All projects must align with one of the following themes:
 ### Week 7: Final Project Development
 - Form teams of 3–5 members
 - Begin your project work:
-  - Form Project question or hypotheis. See example here: `01_QuestionForming.md`
-  - Select one of the dataset from `02_datasets.md`
+  - Form Project question or hypotheis. See example here: [`01_QuestionForming.md`](01_QuestionsForming.md)
+  - Select one of the dataset from [`02_datasets.md`](02_datasets.md)
   - Perform exploratory data analysis (EDA)
   - Build and evaluate a machine learning model (if applicable)
   - Create charts, maps, and other visualizations
